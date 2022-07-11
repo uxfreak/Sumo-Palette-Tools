@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "color-diff": "^1.2.0",
+    "hex-rgb": "^5.0.0",
+    "node-fetch": "^2.6.6",
+    "rgb-hex": "^4.0.0"
+  },
+  "type": "module"
+}
